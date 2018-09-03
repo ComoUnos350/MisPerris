@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(111, 198, 169)
+}
+
+.contene{
+    padding: 0 auto;
+    width: 100%;
+}
+
+
+.img1{
+    width: 33%;
+    border:1px;
+    float: left;
+    padding: 5px 15px;
+}
+
+.img2{
+    width: 33%;
+    border:1px;
+    float: left;
+    padding: 5px 15px;
+}
+
+.img3{
+    width: 33%;
+    border: 1px;
+    float: left;
+    padding: 5px 15px;
+}
+
+.img4{
+    width: 33%;
+    border: 1px;
+    float: left;
+    padding: 5px 15px;
+}
+
+.img5{
+    width: 33%;
+    border: 1px;
+    float: left;
+    padding: 5px 15px;
+}
+
+.img6{
+    width: 33%;
+    border: 1px;
+    float: left;
+    padding: 5px 15px;
+}
+
+@media screen and (max-width: 900px){
+
+    .contene{
+        width: 100%;
+    }
+
+    .img1{
+        width: 35%;
+    }
+
+
+
+}
